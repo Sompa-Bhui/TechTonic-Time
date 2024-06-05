@@ -1,1 +1,1 @@
-# potential-robot
+# mern-stack-blogs-app
