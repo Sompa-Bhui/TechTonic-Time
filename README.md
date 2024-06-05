@@ -1,1 +1,1 @@
-# mern-stack-blogs-app
+# TechTonic-Times
